@@ -1,0 +1,10 @@
+node
+{
+
+stage ('Scmcheckout')
+{
+	git 'https://github.com/revanthvemuri/devopspractise.git'
+	
+  }
+ 
+}
